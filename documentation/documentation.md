@@ -144,7 +144,7 @@ Here are the key visualizations generated during this phase, illustrating the ca
     * **Description:** Line plots showing the trends of active users over the simulated period.
     * **Image Placeholder:**
         
-        ![Active User Trends](./deliverables/active_user_trends.png)
+        ![Active User Trends](../screenshots/active_user_trends.png)
         
         *Figure 1: Daily, Weekly, and Monthly Active Users over time.*
 
@@ -152,7 +152,7 @@ Here are the key visualizations generated during this phase, illustrating the ca
     * **Description:** A bar chart comparing purchase and signup conversion rates across different device types.
     * **Image Placeholder:**
         
-        ![Conversion Rates by Device Type](./deliverables/conversion_by_device.png)
+        ![Conversion Rates by Device Type](../screenshots/conversion_by_device.png)
         
         *Figure 2: Purchase and Signup Conversion Rates per device type, highlighting mobile's lead.*
 
@@ -160,7 +160,7 @@ Here are the key visualizations generated during this phase, illustrating the ca
     * **Description:** A funnel chart visualizing the user journey from initial session to purchase, indicating user counts and drop-off percentages at each stage.
     * **Image Placeholder:**
         
-        ![User Funnel](./deliverables/user_funnel.png)
+        ![User Funnel](../screenshots/user_funnel.png)
         
         *Figure 3: User progression and drop-offs through the defined funnel steps.*
 
