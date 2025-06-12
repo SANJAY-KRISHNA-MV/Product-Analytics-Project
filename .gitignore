@@ -1,3 +1,9 @@
-# Google Cloud service account keys
-.gcp/
+# Python
+.venv/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+.virtual_documents/
+
+# BigQuery / Google Cloud specific
+.gcp/

@@ -1,4 +1,8 @@
--- sql/04_feature_engineering_events.sql
+-- SQL Script: 01_feature_engineering_events.sql
+-- Description: Transforms raw session and event data into a unified 'events' table
+--              with derived event names, session properties, and user-level flags.
+-- Author: Sanjay Krishna
+-- Date: 2025-06-11
 
 CREATE OR REPLACE TABLE `molten-goal-462509-b4.product_usage_data.events` AS
 SELECT
