@@ -1,8 +1,8 @@
 numpy
 pandas
-google-cloud-bigquery 
-pandas
-db-dtypes
 matplotlib 
 seaborn
+scikit-learn
+google-cloud-bigquery 
+db-dtypes
 ipykernel
