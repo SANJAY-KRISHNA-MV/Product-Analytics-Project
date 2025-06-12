@@ -78,16 +78,16 @@ The core challenge was transforming the session-level data into a granular event
 
 
 * **Raw Sessions Table Schema:**
-    ![Raw Sessions Table Schema](./deliverables/raw_sessions_schema.png)
+    ![Raw Sessions Table Schema](../screenshots/raw_sessions_schema.png)
     *A screenshot of the schema for your `raw_sessions` table in the BigQuery console.*
 
 * **Events Table Schema:**
-    ![Events Table Schema](./deliverables/events_table_schema.png)
-    ![Event Table Creation Result](./deliverables/event_table_result.png)
+    ![Events Table Schema](../screenshots/events_table_schema.png)
+    ![Event Table Creation Result](../screenshots/event_table_result.png)
     *A screenshot of the schema for your newly created `events` table in the BigQuery console.*
 
 * **BigQuery Dataset Creation:**  
-    ![BigQuery Explorer showing Dataset](./deliverables/bigquery_explorer_dataset.png)  
+    ![BigQuery Explorer showing Dataset](../screenshots/bigquery_explorer_dataset.png)  
     *The BigQuery Explorer showing the `product_usage_data` dataset.*
 
 <br><br>
